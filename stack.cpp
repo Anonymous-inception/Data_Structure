@@ -57,6 +57,10 @@ void main() {
             cout<<"Invalid Choice"<<endl;
          }
       }
-   }while(ch!=4);
+   }while(ch!
+          main
  getch();
+=======
+   getch()
+          main
 }
